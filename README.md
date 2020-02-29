@@ -45,3 +45,31 @@ Price - current price of the car
 CONCLUSION
 I applied couple of regression models on dataset. From the final dataframe, it gives opinion about
 the score of models and also the plots help us to understand which models is more succesful.
+
+
+
+
+You can run this program on many paltforms which you want
+
+1>.-> jupyter NoteBook
+2>.> Pycharm
+3<.-> Syder
+and many more
+but You must instaal these libraries
+
+1. Pandas
+Installing from PyPI
+pandas can be installed via pip from PyPI.
+
+pip install pandas
+
+2. Numpy
+pip install numpy
+
+3.scipy.io
+ for loading and saving data
+ 
+ 
+if any problem contact me directly via my skype balochgulsherali7
+For Data set also contact me..
+ 
